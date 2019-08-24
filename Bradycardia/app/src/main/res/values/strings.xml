@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bradycardia Predictor</string>
+    <string name="user1">Karthiga</string>
+    <string name="user2">Mandar</string>
+    <string name="user3">Adithiya</string>
+    <string name="user4">Aikya</string>
+    <string name="algo1">SVM</string>
+    <string name="algo2">Naive Bayes</string>
+    <string name="algo3">Regression</string>
+    <string name="algo4">Decision Tree</string>
+</resources>
